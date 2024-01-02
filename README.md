@@ -14,3 +14,7 @@ Bu proje, bir kullanıcı arayüzü üzerinden ürün bilgilerini veritabanına 
 
    ```bash
    git clone https://github.com/Emre005/BarcodeRead
+
+
+## Raspberry Pi Üzerinde Çalıştırma
+Proje, Raspberry Pi üzerinde Python ve Tkinter kütüphaneleri yüklü olduğu sürece çalışacaktır. SQLite veritabanını oluşturmak ve ana uygulamayı başlatmak için yukarıdaki adımları takip edin.
